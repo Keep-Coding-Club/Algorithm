@@ -30,4 +30,3 @@ for s in search_cards:
 
 for r in result:
     print(r, end=' ')
-

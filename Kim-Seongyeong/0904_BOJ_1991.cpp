@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-pair<char, char> arr[26]; //각 알파펫 노드로 (left, right) 정보 저장
+pair<char, char> arr[26]; //각 알파펫 노드로 (left, right) 정보 저장 
 int N;
 
 void preorder(char x)

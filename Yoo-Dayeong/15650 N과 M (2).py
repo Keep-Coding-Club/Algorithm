@@ -25,7 +25,9 @@ def dfs(depth, i):
   for j in range(i+1, n+1):
     if not visited[j]:
       visited[j]=True
+      
       nums.append(j)
+      
       dfs(depth+1, j) # 다음
       visited[j]=False # 백트래킹
       nums.pop() #백트래킹

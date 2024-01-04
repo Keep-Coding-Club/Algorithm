@@ -1,4 +1,4 @@
-//stack Á÷Á¢ ±¸ÇöÇÏ±â
+//stack ì§ì ‘ êµ¬í˜„í•˜ê¸°
 
 #include <bits/stdc++.h>
 using namespace std;

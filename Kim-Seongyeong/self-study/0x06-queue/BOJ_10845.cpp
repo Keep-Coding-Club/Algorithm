@@ -1,4 +1,4 @@
-//queue Á÷Á¢ ±¸ÇöÇÏ±â
+//queue ì§ì ‘ êµ¬í˜„í•˜ê¸°
 
 #include <bits/stdc++.h>
 using namespace std;

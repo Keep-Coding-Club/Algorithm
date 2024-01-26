@@ -1,5 +1,5 @@
 /*
-prefix sum(´©ÀûÇÕ) ¹®Á¦
+prefix sum(ëˆ„ì í•©) ë¬¸ì œ
 
 dp[i] = a[1] + a[2] + ... + a[i]
 dp[i] = dp[i-1] + a[i]
@@ -13,7 +13,7 @@ a[i] + a[i+1] + ... + a[j]
 using namespace std;
 
 int num[100001];
-long long dp[100001]; //nÀÇ ´©ÀûÇÕ
+long long dp[100001]; //iì˜  ëˆ„ì í•©
 
 int main() {
 	ios::sync_with_stdio(0);
